@@ -18,7 +18,7 @@ Automated Solana portfolio rebalancer that keeps two SPL token positions near a 
 ## Installation
 
 ```bash
-git clone <your-fork-url>
+git clone https://github.com/probsnothing/zen-rebalance-demo
 cd bot
 npm install
 ```
